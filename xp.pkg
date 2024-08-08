@@ -1,1 +1,15 @@
-author|[>]|infofintech|[1]|host|[>]|https://github.com|[1]|version|[>]|5.2.8|[1]|branch|[>]|main|[1]|born|[>]|2020|[1]|description|[>]|A collection of Windows XP wallpapers.|[1]|title|[>]|Windows XP Wallpapers|[1]|type|[>]|Digital Wallpaper Collection|[1]|files|[>]|xp.ascent.00.png;xp.autumn.00.png;xp.azul.00.png;xp.bliss.00.png;xp.bluehills.00.png;xp.collection.json;xp.follow.00.png;xp.friend.00.png;xp.moonflower.00.png;xp.radiance.00.png;xp.redmoondesert.00.png;xp.stonehenge.00.png;xp.sunset.00.png;xp.tulips.00.png;xp.vortecspace.00.png;xp.waterlilies.00.png;xp.wind.00.png;xp.winter.00.png;
+author|[>]|infofintech|[1]|host|[>]|https://github.com|[1]|version|[>]|5.2.8|[1]|branch|[>]|main|[1]|born|[>]|2020|[1]|description|[>]||[1]|title|[>]||[1]|type|[>]|Digital Wallpaper Collection|[1]|files|[>]|xp.ascent.00.png;xp.autumn.00.png;xp.azul.00.png;xp.bliss.00.png;xp.bluehills.00.png;xp.collection.json;xp.follow.00.png;xp.friend.00.png;xp.moonflower.00.png;xp.radiance.00.png;xp.redmoondesert.00.png;xp.stonehenge.00.png;xp.sunset.00.png;xp.tulips.00.png;xp.vortecspace.00.png;xp.waterlilies.00.png;xp.wind.00.png;xp.winter.00.png;
+
+{
+    "author": "infofintech",
+    "host": "https://github.com",
+    "version": "5.2.8",
+    "branch": "main",
+    "initial_release": "2024-02-12",
+    "initial_version": "1.0",
+    "description": "A collection of Windows XP wallpapers.",
+    "title": "Windows XP Wallpapers",
+    "language": "RU - Коллекция обоев Windows XP. UA - Колекція шпалер Windows XP. GR - Συλλογή Ταπετσαριών Windows XP. CY - Συλλογή Ταπετσαριών Windows XP. CN - Windows XP壁纸合集. JP - Windows XPの壁紙コレクション. KR - Windows XP 배경화면 컬렉션",
+    "type": "Digital Wallpaper Collection",
+    "files": "osx.2005.00.png;osx.2006.00.png;osx.2007.00.png;osx.2008.00.png;osx.2009.00.png;osx.2010.00.png;osx.2011.00.png;osx.2012.00.png;osx.2013.00.png;osx.2014.00.png;osx.2015.00.png;osx.2016.00.png;osx.2017.00.png;osx.2018.00.png;osx.2018.01.png;osx.2018.02.png;osx.2018.03.png;osx.2018.04.png;osx.2018.05.png;osx.2018.06.png;osx.2018.07.png;osx.2018.08.png;osx.2018.09.png;osx.2018.10.png;osx.2019.00.png;osx.2019.01.png;osx.2019.02.png;osx.2019.03.png;osx.2019.04.png;osx.2019.05.png;osx.2019.06.png;osx.2019.07.png;osx.2020.00.png;osx.2020.01.png;osx.2020.02.png;osx.2020.03.png;osx.2020.04.png;osx.2020.05.png;osx.2021.00.png;osx.2021.01.png;osx.2021.02.png;osx.2021.03.png;osx.2021.04.png;osx.2021.05.png;osx.2022.00.png;osx.2022.01.png;osx.2022.02.png;osx.2022.03.png;osx.2023.00.png;osx.2023.01.png;osx.2023.02.png;osx.2023.03.png;osx.2024.00.png;osx.2024.01.png;osx.2024.02.png;osx.2024.03.png;osx.collage.png;osx.collection.json"
+}
