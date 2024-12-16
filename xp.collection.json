@@ -1,137 +1,103 @@
 {
-    "ascent":
-    {
+    "ascent": {
         "title": "Microsoft Windows XP - Ascent",
-        "language":
-        {
+        "language": {
             "RU": "Microsoft Windows XP - Восхождение"
         }
     },
-    "autumn":
-    {
+    "autumn": {
         "title": "Microsoft Windows XP - Autumn",
-        "language":
-        {
+        "language": {
             "RU": "Microsoft Windows XP - Осень"
         }
     },
-    "azul":
-    {
+    "azul": {
         "title": "Microsoft Windows XP - Azul",
-        "language":
-        {
+        "language": {
             "RU": "Microsoft Windows XP - Лазурь"
         }
     },
-    "bliss":
-    {
+    "bliss": {
         "title": "Microsoft Windows XP - Bliss",
-        "language":
-        {
+        "language": {
             "RU": "Microsoft Windows XP - Безмятежность"
         }
     },
-    "bluehills":
-    {
+    "bluehills": {
         "title": "Microsoft Windows XP - Blue hills",
-        "language":
-        {
+        "language": {
             "RU": "Microsoft Windows XP - Голубые холмы"
         }
     },
-    "follow":
-    {
+    "follow": {
         "title": "Microsoft Windows XP - Follow",
-        "language":
-        {
+        "language": {
             "RU": "Microsoft Windows XP - Эскорт"
         }
     },
-    "friend":
-    {
+    "friend": {
         "title": "Microsoft Windows XP - Friend",
-        "language":
-        {
+        "language": {
             "RU": "Microsoft Windows XP - Преданность"
         }
     },
-    "moonflower":
-    {
+    "moonflower": {
         "title": "Microsoft Windows XP - Moonflower",
-        "language":
-        {
+        "language": {
             "RU": "Microsoft Windows XP - Фиолетовый цветок"
         }
     },
-    "radiance":
-    {
+    "radiance": {
         "title": "Microsoft Windows XP - Radiance",
-        "language":
-        {
+        "language": {
             "RU": "Microsoft Windows XP - Сияние"
         }
     },
-    "redmoondesert":
-    {
+    "redmoondesert": {
         "title": "Microsoft Windows XP - Red Moon Desert",
-        "language":
-        {
+        "language": {
             "RU": "Microsoft Windows XP - Красная пустыня"
         }
     },
-    "stonehenge":
-    {
+    "stonehenge": {
         "title": "Microsoft Windows XP - Stonehenge",
-        "language":
-        {
+        "language": {
             "RU": "Microsoft Windows XP - Стоунхендж"
         }
     },
-    "sunset":
-    {
+    "sunset": {
         "title": "Microsoft Windows XP - Sunset",
-        "language":
-        {
+        "language": {
             "RU": "Microsoft Windows XP - Закат"
         }
     },
-    "tulips":
-    {
+    "tulips": {
         "title": "Microsoft Windows XP - Tulips",
-        "language":
-        {
+        "language": {
             "RU": "Microsoft Windows XP - Тюльпаны"
         }
     },
-    "vortecspace":
-    {
+    "vortecspace": {
         "title": "Microsoft Windows XP - Vortec Space",
-        "language":
-        {
+        "language": {
             "RU": "Microsoft Windows XP - В звездных пучинах"
         }
     },
-    "waterlilies":
-    {
+    "waterlilies": {
         "title": "Microsoft Windows XP - Water lilies",
-        "language":
-        {
+        "language": {
             "RU": "Microsoft Windows XP - Водяные лилии"
         }
     },
-    "wind":
-    {
+    "wind": {
         "title": "Microsoft Windows XP - Wind",
-        "language":
-        {
+        "language": {
             "RU": "Microsoft Windows XP - Ветер"
         }
     },
-    "winter":
-    {
+    "winter": {
         "title": "Microsoft Windows XP - Winter",
-        "language":
-        {
+        "language": {
             "RU": "Microsoft Windows XP - Зима"
         }
     }
