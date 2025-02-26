@@ -1,0 +1,104 @@
+{
+    "ascent": {
+        "title": "Microsoft Windows XP - Ascent",
+        "language": {
+            "RU": "Microsoft Windows XP - Восхождение"
+        }
+    },
+    "autumn": {
+        "title": "Microsoft Windows XP - Autumn",
+        "language": {
+            "RU": "Microsoft Windows XP - Осень"
+        }
+    },
+    "azul": {
+        "title": "Microsoft Windows XP - Azul",
+        "language": {
+            "RU": "Microsoft Windows XP - Лазурь"
+        }
+    },
+    "bliss": {
+        "title": "Microsoft Windows XP - Bliss",
+        "language": {
+            "RU": "Microsoft Windows XP - Безмятежность"
+        }
+    },
+    "bluehills": {
+        "title": "Microsoft Windows XP - Blue hills",
+        "language": {
+            "RU": "Microsoft Windows XP - Голубые холмы"
+        }
+    },
+    "follow": {
+        "title": "Microsoft Windows XP - Follow",
+        "language": {
+            "RU": "Microsoft Windows XP - Эскорт"
+        }
+    },
+    "friend": {
+        "title": "Microsoft Windows XP - Friend",
+        "language": {
+            "RU": "Microsoft Windows XP - Преданность"
+        }
+    },
+    "moonflower": {
+        "title": "Microsoft Windows XP - Moonflower",
+        "language": {
+            "RU": "Microsoft Windows XP - Фиолетовый цветок"
+        }
+    },
+    "radiance": {
+        "title": "Microsoft Windows XP - Radiance",
+        "language": {
+            "RU": "Microsoft Windows XP - Сияние"
+        }
+    },
+    "redmoondesert": {
+        "title": "Microsoft Windows XP - Red Moon Desert",
+        "language": {
+            "RU": "Microsoft Windows XP - Красная пустыня"
+        }
+    },
+    "stonehenge": {
+        "title": "Microsoft Windows XP - Stonehenge",
+        "language": {
+            "RU": "Microsoft Windows XP - Стоунхендж"
+        }
+    },
+    "sunset": {
+        "title": "Microsoft Windows XP - Sunset",
+        "language": {
+            "RU": "Microsoft Windows XP - Закат"
+        }
+    },
+    "tulips": {
+        "title": "Microsoft Windows XP - Tulips",
+        "language": {
+            "RU": "Microsoft Windows XP - Тюльпаны"
+        }
+    },
+    "vortecspace": {
+        "title": "Microsoft Windows XP - Vortec Space",
+        "language": {
+            "RU": "Microsoft Windows XP - В звездных пучинах"
+        }
+    },
+    "waterlilies": {
+        "title": "Microsoft Windows XP - Water lilies",
+        "language": {
+            "RU": "Microsoft Windows XP - Водяные лилии"
+        }
+    },
+    "wind": {
+        "title": "Microsoft Windows XP - Wind",
+        "language": {
+            "RU": "Microsoft Windows XP - Ветер"
+        }
+    },
+    "winter": {
+        "title": "Microsoft Windows XP - Winter",
+        "language": {
+            "RU": "Microsoft Windows XP - Зима"
+        }
+    }
+}
